@@ -1,0 +1,11 @@
+{
+    "name": "administrator/ert",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yuzijing",
+            "email": "1060239818@qq.com"
+        }
+    ],
+    "require": {}
+}
